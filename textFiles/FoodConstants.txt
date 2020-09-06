@@ -1,0 +1,78 @@
+// HOW TO USE THE FILE (ADD/CHANGE THE DATA)
+//
+// "//" - for comments, the program won't read the line
+//
+// UPPERCASE - food categories
+// lowercase - type of product
+// coefficient - kgCO2eq per kg product
+//
+// to add a category write UPPERCASE name of the category in an empty line 
+// to enter new product find the category and below it in new line enter - type of product:coefficient
+//
+
+
+VEGETABLES
+root vegetables:0.3
+onions:0.3
+tomatoes:1.4
+cucumbers:1.2
+peppers:1.1
+avocados:2.5
+asparagus:8.9
+other vegetables:0.7
+
+FRUIT
+berries:1.1
+grapes:1.1
+bananas:0.8
+apples:0.3
+citrus:0.3
+other fruit:0.7
+
+STAPLE FOODS
+rice:4.0
+oats:1.6
+pasta:2.6
+quinoa:1.2
+lentils:1.0
+peas:0.8
+beans:1.2
+bread:1.4
+maize:1.1
+chocolate:18.7
+wheat:1.4
+tofu:3.0
+olive oil:6.0
+honey:0.5
+
+NUTS
+nuts:0.2
+peanuts:2.4
+
+DRINKS
+water:0.1
+coffee:16.5
+tea:0.3
+beer:1.2
+wine:2.2
+oatmilk:0.5
+
+DAIRY
+milk:2.8
+butter:11.5
+cream:5.3
+cheese:21.2
+
+SEAFOOD
+canned tuna:6.1
+farmed fish:5.1
+farmed salmon:11.8
+shrimp:14.8
+
+MEATS
+eggs:4.5
+poultry:6.9
+pork:7.2
+lamb:24.5
+beef dairy:21.1
+beef meat:59.6

@@ -1,0 +1,37 @@
+// HOW TO USE THE FILE (ADD/CHANGE THE DATA)
+//
+// "//" - for comments, the program won't read the line
+//
+// UPPERCASE - transport categories
+// lowercase - type of transport
+// coefficient - kgCO2eq per km per passenger
+//
+// to add a category write UPPERCASE name of the category in an empty line 
+// to enter new product find the category and below it in new line enter - type of transport:coefficient
+//
+
+
+ELECTRIC
+e-bike:0.016
+e-bus:0.025
+e-moped:0.030
+e-car:0.092
+e-scooter:0.126
+
+PUBLIC
+tram:0.038
+high-speed train:0.050
+train:0.060
+long-haul bus:0.045
+short-haul bus:0.058
+ferry:0.152
+plane:0.285
+
+PERSONAL
+bike:0.007
+moped:0.101
+motorbike:0.145
+hybrid car:0.158
+diesel car:0.180
+petrol car:0.208
+
